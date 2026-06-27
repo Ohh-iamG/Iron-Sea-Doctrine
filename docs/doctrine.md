@@ -105,9 +105,10 @@ EARTH—I™ was built to translate those signals into language the world can ac
 
 *™ Earth-I Ltd | Western Australia | All rights reserved 2026* *Iron & Sea Doctrine™ is a trademark of Earth-I Ltd (unregistered)*
 
- #                                <img width="153.6" height="102.4" alt="IMAGE BACKGROUND" src="https://github.com/user-attachments/assets/184f96f0-11b1-46eb-aadb-3e64e2361960" />
-<img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/a54e719d-1098-4d6c-878b-a289c0945a6c" />
-Technical Appendix: System Registries & Architectural Alignment
+
+<img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/8a6494af-74b0-4017-965a-59f24e189c2c" />
+
+## Technical Appendix: System Registries & Architectural Alignment
 
 To satisfy the requirements of the Sovereign Regulatory Architecture, this manifest explicitly registers the following integrated operating system layers and core technological frameworks:
 
@@ -126,3 +127,4 @@ To satisfy the requirements of the Sovereign Regulatory Architecture, this manif
 * **Ethics Gate**
 * **Regeneration OS**
 * **EARTH-I**
+
