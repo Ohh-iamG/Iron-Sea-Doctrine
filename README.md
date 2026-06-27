@@ -40,12 +40,12 @@ The Iron and Sea Doctrine states that every significant industrial action must r
 ## The Five-OS Architectural Hierarchy
 
 | Level | System | Function |
-|-------|--------|----------|
-| 5 | CONSTELLATION OS™ | Civilisational coordination — 100 Autonomous Governance Agents, 1,000-Domain Alignment Matrix™ |
-| 4 | ATMOSPHERIC OS™ | Forensic verification — satellite-cross-referenced emissions drift detection via Drift Guard™ |
-| 3 | INDUSTRIAL OS™ | Structural production layer — automated Scope 1/2/3 carbon accounting, Pre-Audit Shield™ |
-| 2 | BIOPHYSICAL OS™ / LIFE OS™ | Grounded custodianship — live micro-climate telemetry, First Nations land monitoring |
-| 1 | CORE OS™ | Sovereign governance kernel — physics-grade invariants, deep-time carbon cycles, Unextinction Principle |
+|---------|-------------|----------|
+| 5 | CONSTELLATION OS™   | Civilisational coordination — 100 Autonomous Governance Agents, 1,000-Domain Alignment Matrix™ |
+| 4 | ATMOSPHERIC OS™   | Forensic verification — satellite-cross-referenced emissions drift detection via Drift Guard™ |
+| 3 | INDUSTRIAL OS™   | Structural production layer — automated Scope 1/2/3 carbon accounting, Pre-Audit Shield™ |
+| 2 | BIOPHYSICAL OS™  | Grounded custodianship — live micro-climate telemetry, First Nations land monitoring |
+| 1 | CORE OS™   | Sovereign governance kernel — physics-grade invariants, deep-time carbon cycles, Unextinction Principle |
 
 ---
 
@@ -87,7 +87,7 @@ npm run report:compliance     # Generate compliance audit record
 Legal Notice
 EARTH—I PTY LTD | ABN: 15698220692 | Western Australia
 
-All trademarks (™) are unregistered trademarks of Earth-I Ltd pending IP Australia registration.
+All trademarks are registered trademarks of Earth-I Ltd pending IP Australia registration.
 
 This repository is subject to the EARTH—I Open Regulatory License. See LICENSE.
 
