@@ -1,0 +1,36 @@
+name: EARTH-I Regulatory CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  ethics-gate-validation:
+    name: Ethics Gate™ Structural Audit Suite
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ingest Framework Infrastructure
+        uses: actions/checkout@v4
+
+      - name: Initialize Environment (Node.js v20)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Bind Dependencies
+        run: npm install
+
+      - name: Execute Drift Guard™ Matrix Validation
+        run: npm run validate:domains
+
+      - name: Audit Closed-Loop Thermodynamic Invariants
+        run: npm run validate:closedloop
+
+      - name: Reconcile Return Metrics Log Vectors
+        run: npm run validate:sel
+
+      - name: Compile Sovereign Environmental Report
+        run: npm run report:compliance
