@@ -2,8 +2,8 @@ const fs = require("fs");
 const path = require("path");
 
 const alignmentMatrix = {
-  frameworks: ["BIOPHYSICAL OS", "LIFE OS", "INDUSTRIAL OS", "ATMOSPHERIC OS", "CONSTELLATION OS", "CORE OS"],
-  trademarks: ["Drift Guard", "Rhythm Engine", "Return Metrics", "Ethics Gate", "Regeneration OS", "EARTH-I"]
+  frameworks: [ "BIOPHYSICAL OS", "LIFE OS", "INDUSTRIAL OS", "ATMOSPHERIC OS", "CONSTELLATION OS", "CORE OS" ],
+  trademarks: [ "Drift Guard", "Rhythm Engine", "Return Metrics", "Ethics Gate", "Regeneration OS", "EARTH-I" ]
 };
 
 const docsDir = "./docs";
