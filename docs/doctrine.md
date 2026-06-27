@@ -3,7 +3,7 @@
 
 
 
-# THE IRON & SEA DOCTRINE™
+# THE IRON & SEA DOCTRINE™  
 <img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/a54e719d-1098-4d6c-878b-a289c0945a6c" />
 
 ## A Governing Principle for Industrial Civilisation
