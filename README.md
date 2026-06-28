@@ -96,4 +96,5 @@ This repository is subject to the EARTH—I Open Regulatory License. See LICENSE
 Note on SEGA 2041: References in this repository to the "Sovereign Environmental Governance Act (SEGA 2041)" describe a proposed future governance framework authored by Earth-I Ltd. SEGA 2041 is not currently enacted legislation under Australian law. It represents the legislative architecture that the Iron & Sea Doctrine proposes should exist.
 
 Contact: legal@earthi.ltd | earthi.ltd
+
 <img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/c138a33a-ee4a-49b8-99e0-44953a7e75b5" />
