@@ -1,7 +1,6 @@
 
-<img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/c138a33a-ee4a-49b8-99e0-44953a7e75b5" />
 
-# EARTH—I™ - Iron & Sea Doctrine™           <img width="54.2" height="76.7" alt="LOGO-EI png" src="https://github.com/user-attachments/assets/284ed4a4-28ab-4472-86a2-eccef60a9ae3" />
+# EARTH—I™ - Iron & Sea Doctrine™           <img width="79.4" height="112.3" alt="iron" src="https://github.com/user-attachments/assets/a53d2f1c-cf6a-4787-826a-a55448830c41" />
 <img width="1200" height="15" alt="IRON 2B3036" src="https://github.com/user-attachments/assets/b17adb21-0196-4a67-a2b8-496e04074d59" />
 
 
